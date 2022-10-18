@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Ioco.Infrastructure.FileShare/.vs/Ioco.Infrastructure.FileShare/DesignTimeBuild
+/Ioco.Infrastructure.FileShare/Ioco.Infrastructure.FileShare/obj
