@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ioco.Infrastructure.Email", "Ioco.Infrastructure.Email\Ioco.Infrastructure.Email.csproj", "{ED365E17-31AE-4BFD-9D92-31F57720110D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ioco.Infrastructure.Email.Tests", "Ioco.Infrastructure.Email.Tests\Ioco.Infrastructure.Email.Tests.csproj", "{AB1863C0-E165-404E-A6D0-C0EDFF4D1B12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED365E17-31AE-4BFD-9D92-31F57720110D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED365E17-31AE-4BFD-9D92-31F57720110D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED365E17-31AE-4BFD-9D92-31F57720110D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED365E17-31AE-4BFD-9D92-31F57720110D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB1863C0-E165-404E-A6D0-C0EDFF4D1B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1863C0-E165-404E-A6D0-C0EDFF4D1B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1863C0-E165-404E-A6D0-C0EDFF4D1B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1863C0-E165-404E-A6D0-C0EDFF4D1B12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90DD7057-1001-4FA0-ADCD-DCA2CDB6E0AB}
+	EndGlobalSection
+EndGlobal

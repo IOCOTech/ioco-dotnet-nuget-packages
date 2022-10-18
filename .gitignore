@@ -4,3 +4,8 @@
 
 /Ioco.Infrastructure.FileShare/.vs/Ioco.Infrastructure.FileShare/DesignTimeBuild
 /Ioco.Infrastructure.FileShare/Ioco.Infrastructure.FileShare/obj
+/Ioco.Infrastructure.Email/.vs/Ioco.Infrastructure.Email/v17
+/Ioco.Infrastructure.Email/Ioco.Infrastructure.Email/bin/Debug
+/Ioco.Infrastructure.Email/Ioco.Infrastructure.Email/obj
+/Ioco.Infrastructure.Email/Ioco.Infrastructure.Email.Tests/bin/Debug/net6.0
+/Ioco.Infrastructure.Email/Ioco.Infrastructure.Email.Tests/obj
